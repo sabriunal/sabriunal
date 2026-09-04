@@ -20,5 +20,5 @@ Occasionally:
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
 
-Other-times:
+Other times:
 - https://github.com/orgs/flathub/repositories
