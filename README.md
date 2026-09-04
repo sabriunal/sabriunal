@@ -10,7 +10,7 @@ Full-time:
 - https://github.com/flathub/io.github.ezQuake
 - https://github.com/flathub/ca.littlesvr.asunder
 
-Part-time:
+Time-to-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/com.github.iortcw.iortcw
 
@@ -20,5 +20,5 @@ Occasionally:
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
 
-Other-time:
+Other-times:
 - https://github.com/orgs/flathub/repositories
