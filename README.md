@@ -9,6 +9,8 @@ Full-time:
 - https://github.com/flathub/com.zandronum.Zandronum
 - https://github.com/flathub/io.github.ezQuake
 - https://github.com/flathub/ca.littlesvr.asunder
+- https://github.com/flathub/io.github.lethal_guitar.RigelEngine
+- https://github.com/flathub/com.github.ryanakca.slingshot
 
 Time-to-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
