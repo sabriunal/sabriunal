@@ -16,8 +16,6 @@ Time-to-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/com.github.iortcw.iortcw
 - https://github.com/flathub/net.sourceforge.GrandOrgue
-
-Occasionally:
 - https://github.com/flathub/net.sourceforge.lgames.LTris
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
