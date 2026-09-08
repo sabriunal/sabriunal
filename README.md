@@ -15,10 +15,10 @@ Full-time:
 - https://github.com/flathub/org.debian.TuxPuck
 - https://github.com/flathub/net.sourceforge.chromium-bsu
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
-
-Time-to-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/com.github.iortcw.iortcw
+
+Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.lgames.LTris
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
