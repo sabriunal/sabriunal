@@ -18,6 +18,7 @@ Full-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/com.github.iortcw.iortcw
 - https://github.com/flathub/net.sourceforge.btanks
+- https://github.com/flathub/net.sourceforge.TuxFootball
 
 Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
