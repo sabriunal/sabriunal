@@ -14,6 +14,7 @@ Full-time:
 - https://github.com/flathub/com.github.ryanakca.slingshot
 - https://github.com/flathub/org.debian.TuxPuck
 - https://github.com/flathub/net.sourceforge.chromium-bsu
+- https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 
 Time-to-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
