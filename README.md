@@ -17,6 +17,7 @@ Full-time:
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/com.github.iortcw.iortcw
+- https://github.com/flathub/net.sourceforge.btanks
 
 Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
