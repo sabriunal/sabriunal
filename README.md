@@ -16,6 +16,7 @@ Full-time:
 - https://github.com/flathub/net.sourceforge.chromium-bsu
 - https://github.com/flathub/net.sourceforge.lgames.Barrage
 - https://github.com/flathub/net.sourceforge.TuxFootball
+- https://github.com/flathub/net.tedomum.CapBattleship
 - https://github.com/flathub/org.debian.TuxPuck
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
