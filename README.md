@@ -12,6 +12,7 @@ Full-time:
 - https://github.com/flathub/io.github.ciromattia.kcc
 - https://github.com/flathub/io.github.lethal_guitar.RigelEngine
 - https://github.com/flathub/io.github.ezQuake
+- https://github.com/flathub/net.olofson.KoboDeluxe
 - https://github.com/flathub/net.sourceforge.btanks
 - https://github.com/flathub/net.sourceforge.chromium-bsu
 - https://github.com/flathub/net.sourceforge.lgames.Barrage
