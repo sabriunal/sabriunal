@@ -22,6 +22,7 @@ Full-time:
 - https://github.com/flathub/org.debian.TuxPuck
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
+- https://github.com/flathub/org.imitationpickles.barbie
 
 Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
