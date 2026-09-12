@@ -26,6 +26,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 - https://github.com/flathub/org.imitationpickles.barbie
 - https://github.com/flathub/uk.co._69_studios.kublit
+- https://github.com/flathub/vet.rsc.OpenRSC.Launcher
   
 ### Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
