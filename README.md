@@ -23,7 +23,7 @@ Full-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 - https://github.com/flathub/org.imitationpickles.barbie
-
+- https://github.com/flathub/net.gradator.gtkatlantic
 Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
