@@ -4,6 +4,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 
 ### Full-time:
 - https://github.com/flathub/ca.littlesvr.asunder
+- https://github.com/flathub/com.claudiocambra.brickbuster
 - https://github.com/flathub/com.github.ryanakca.slingshot
 - https://github.com/flathub/com.github.iortcw.iortcw
 - https://github.com/flathub/com.holypangolin.Animatch
