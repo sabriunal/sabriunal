@@ -2,7 +2,7 @@
 
 I might be a maintainer or one of the maintainers of the following repositories:
 
-Full-time:
+### Full-time:
 - https://github.com/flathub/ca.littlesvr.asunder
 - https://github.com/flathub/com.github.ryanakca.slingshot
 - https://github.com/flathub/com.github.iortcw.iortcw
@@ -13,6 +13,7 @@ Full-time:
 - https://github.com/flathub/io.github.lethal_guitar.RigelEngine
 - https://github.com/flathub/io.github.ezQuake
 - https://github.com/flathub/net.blockout.BlockOutII
+- https://github.com/flathub/net.gradator.gtkatlantic
 - https://github.com/flathub/net.olofson.KoboDeluxe
 - https://github.com/flathub/net.sourceforge.btanks
 - https://github.com/flathub/net.sourceforge.chromium-bsu
@@ -23,13 +24,13 @@ Full-time:
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 - https://github.com/flathub/org.imitationpickles.barbie
-- https://github.com/flathub/net.gradator.gtkatlantic
-Time-to-time:
+  
+### Time-to-time:
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
 
-Other times:
+### Other times:
 - https://github.com/orgs/flathub/repositories
