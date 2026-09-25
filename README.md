@@ -34,6 +34,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/vet.rsc.OpenRSC.Launcher
   
 ### Time-to-time:
+- https://github.com/flathub/io.github.shundhammer.qdirstat
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
