@@ -19,6 +19,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.blockout.BlockOutII
 - https://github.com/flathub/net.gradator.gtkatlantic
 - https://github.com/flathub/net.olofson.KoboDeluxe
+- https://github.com/flathub/net.sourceforge.atanks
 - https://github.com/flathub/net.sourceforge.btanks
 - https://github.com/flathub/net.sourceforge.chromium-bsu
 - https://github.com/flathub/net.sourceforge.lgames.Barrage
