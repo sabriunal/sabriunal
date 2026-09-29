@@ -50,6 +50,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 
 ### In some cases
 - https://github.com/flathub/com.github.geigi.cozy
+- https://github.com/flathub/xyz.aguno.CubeTimer
 
 ### Other times:
 - https://github.com/orgs/flathub/repositories
