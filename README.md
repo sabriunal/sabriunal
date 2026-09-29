@@ -48,5 +48,8 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
 
+### In some cases
+- https://github.com/flathub/com.github.geigi.cozy
+
 ### Other times:
 - https://github.com/orgs/flathub/repositories
