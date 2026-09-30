@@ -54,6 +54,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 
 ### In some cases
 - https://github.com/flathub/com.github.geigi.cozy
+- https://github.com/flathub/org.gnome.gitlab.powimod.aion-task
 - https://github.com/flathub/xyz.aguno.CubeTimer
 
 ### Other times:
