@@ -46,17 +46,16 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.pulseaudio.pavucontrol
 - https://github.com/flathub/uk.co._69_studios.kublit
 - https://github.com/flathub/vet.rsc.OpenRSC.Launcher
-  
-### Time-to-time:
+
+### In some cases
+- https://github.com/flathub/com.github.geigi.cozy
+- https://github.com/flathub/com.github.muriloventuroso.pdftricks
 - https://github.com/flathub/io.github.shundhammer.qdirstat
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
-
-### In some cases
-- https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/org.gnome.gitlab.powimod.aion-task
 - https://github.com/flathub/xyz.aguno.CubeTimer
 
