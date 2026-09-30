@@ -19,6 +19,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/io.github.ezQuake
 - https://github.com/flathub/io.github.lethal_guitar.RigelEngine
 - https://github.com/flathub/io.github.naikari.Naikari
+- https://github.com/flathub/com.github.robertsanseries.ciano
 - https://github.com/flathub/io.thp.numptyphysics
 - https://github.com/flathub/jp.yvt.OpenSpades
 - https://github.com/flathub/net.blockout.BlockOutII
