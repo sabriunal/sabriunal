@@ -8,6 +8,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.claudiocambra.brickbuster
 - https://github.com/flathub/com.djoffe.gnukem
 - https://github.com/flathub/com.github.alainm23.byte
+- https://github.com/flathub/com.github.artemanufrij.playmymusic
 - https://github.com/flathub/com.github.childishgiant.mixer
 - https://github.com/flathub/com.github.ryanakca.slingshot
 - https://github.com/flathub/com.github.iortcw.iortcw
