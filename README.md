@@ -33,6 +33,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.atanks
 - https://github.com/flathub/net.sourceforge.btanks
 - https://github.com/flathub/net.sourceforge.chromium-bsu
+- https://github.com/flathub/net.sourceforge.Klavaro
 - https://github.com/flathub/net.sourceforge.lgames.Barrage
 - https://github.com/flathub/net.sourceforge.mars-game
 - https://github.com/flathub/net.sourceforge.Ri-li
