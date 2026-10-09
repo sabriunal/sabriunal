@@ -58,6 +58,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
 - https://github.com/flathub/org.gnome.gitlab.powimod.aion-task
+- https://github.com/flathub/org.gnome.Hitori
 - https://github.com/flathub/xyz.aguno.CubeTimer
 
 ### Other times:
