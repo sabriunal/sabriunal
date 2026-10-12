@@ -41,6 +41,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.Ri-li
 - https://github.com/flathub/net.sourceforge.TuxFootball
 - https://github.com/flathub/net.tedomum.CapBattleship
+- https://github.com/flathub/org.atheme.audacious
 - https://github.com/flathub/org.debian.TuxPuck
 - https://github.com/flathub/org.dhewm3.Dhewm3
 - https://github.com/flathub/org.frozen_bubble.frozen-bubble
