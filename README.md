@@ -51,6 +51,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.libretrainsim.Libre-TrainSim
 - https://github.com/flathub/org.pulseaudio.pavucontrol
 - https://github.com/flathub/uk.co._69_studios.kublit
+- https://github.com/flathub/uk.org.zint.zint-qt
 - https://github.com/flathub/vet.rsc.OpenRSC.Launcher
 
 ### In some cases
