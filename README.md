@@ -12,12 +12,13 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.github.artemanufrij.playmyvideos
 - https://github.com/flathub/com.github.artemanufrij.regextester
 - https://github.com/flathub/com.github.childishgiant.mixer
-- https://github.com/flathub/com.github.ryanakca.slingshot
+- https://github.com/flathub/com.github.Flacon
 - https://github.com/flathub/com.github.iortcw.iortcw
 - https://github.com/flathub/com.github.junrrein.PDFSlicer
 - https://github.com/flathub/com.github.marktext.marktext
 - https://github.com/flathub/com.github.muriloventuroso.givemelyrics
 - https://github.com/flathub/com.github.raibtoffoletto.litteris
+- https://github.com/flathub/com.github.ryanakca.slingshot
 - https://github.com/flathub/com.holypangolin.Animatch
 - https://github.com/flathub/com.transmissionbt.Transmission
 - https://github.com/flathub/com.zandronum.Zandronum
