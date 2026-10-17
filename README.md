@@ -26,6 +26,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/io.github.ciromattia.kcc
 - https://github.com/flathub/io.github.diegoivanme.flowtime
 - https://github.com/flathub/io.github.ezQuake
+- https://github.com/flathub/io.github.kelvinnovais.Kasasa
 - https://github.com/flathub/io.github.lethal_guitar.RigelEngine
 - https://github.com/flathub/io.github.naikari.Naikari
 - https://github.com/flathub/com.github.robertsanseries.ciano
