@@ -73,6 +73,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.gnome.Klotski
 - https://github.com/flathub/org.gnome.meld
 - https://github.com/flathub/org.gnome.Nibbles
+- https://github.com/flathub/org.gnome.Taquin
 - https://github.com/flathub/xyz.aguno.CubeTimer
 
 ### Other times:
