@@ -27,7 +27,6 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/eu.planete_kraus.Tarot
 - https://github.com/flathub/io.github.ciromattia.kcc
 - https://github.com/flathub/io.github.dgsasha.Remembrance
-- https://github.com/flathub/io.github.diegoivanme.flowtime
 - https://github.com/flathub/io.github.ezQuake
 - https://github.com/flathub/io.github.kelvinnovais.Kasasa
 - https://github.com/flathub/io.github.lethal_guitar.RigelEngine
@@ -60,6 +59,8 @@ I might be a maintainer or one of the maintainers of the following repositories:
 ### In some cases
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
+- https://github.com/flathub/io.github.diegoivan.GaticTacToe
+- https://github.com/flathub/io.github.diegoivanme.flowtime
 - https://github.com/flathub/io.github.shundhammer.qdirstat
 - https://github.com/flathub/io.github.nokse22.ultimate-tic-tac-toe
 - https://github.com/flathub/net.sourceforge.GrandOrgue
