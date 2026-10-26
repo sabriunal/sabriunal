@@ -70,6 +70,9 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
+- https://github.com/flathub/org.gabmus.hydrapaper
+- https://github.com/flathub/org.gabmus.notorious
+- https://github.com/flathub/org.gabmus.swatch
 - https://github.com/flathub/org.gabmus.whatip
 - https://github.com/flathub/org.geogebra.GeoGebra
 - https://github.com/flathub/org.gnome.atomix
