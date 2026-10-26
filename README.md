@@ -60,6 +60,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 ### In some cases
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
+- https://github.com/flathub/io.github.Cookiiieee.WSelector
 - https://github.com/flathub/io.github.diegoivan.GaticTacToe
 - https://github.com/flathub/io.github.diegoivanme.flowtime
 - https://github.com/flathub/io.github.shundhammer.qdirstat
