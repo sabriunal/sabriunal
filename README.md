@@ -65,6 +65,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
 - https://github.com/flathub/com.neatdecisions.Detwinner
+- https://github.com/flathub/com.sigil_ebook.Sigil
 - https://github.com/flathub/io.github.Cookiiieee.WSelector
 - https://github.com/flathub/io.github.diegoivan.GaticTacToe
 - https://github.com/flathub/io.github.diegoivanme.flowtime
