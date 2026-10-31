@@ -78,6 +78,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.lgames.LGeneral
 - https://github.com/flathub/net.sourceforge.lgames.LPairs2
 - https://github.com/flathub/net.sourceforge.lgames.LTris
+- https://github.com/flathub/net.sourceforge.mcomix
 - https://github.com/flathub/net.supertuxkart.SuperTuxKart
 - https://github.com/flathub/org.gabmus.hydrapaper
 - https://github.com/flathub/org.gabmus.notorious
