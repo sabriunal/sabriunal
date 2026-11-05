@@ -27,6 +27,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.transmissionbt.Transmission
 - https://github.com/flathub/com.ylsoftware.qmmp.Qmmp
 - https://github.com/flathub/com.zandronum.Zandronum
+- https://github.com/flathub/de._0x539.gobby
 - https://github.com/flathub/eu.planete_kraus.Tarot
 - https://github.com/flathub/io.github.ciromattia.kcc
 - https://github.com/flathub/io.github.dgsasha.Remembrance
