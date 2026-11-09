@@ -1,5 +1,7 @@
 ## Sabri Ünal
 
+If you appreciate my work, [buy me a book :)](https://www.amazon.co.uk/hz/wishlist/ls/S58P9JEHP6UF)
+
 I might be a maintainer or one of the maintainers of the following repositories:
 
 ### Full-time:
