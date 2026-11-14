@@ -66,6 +66,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 
 ### In some cases
 - https://github.com/flathub/app.devsuite.Ptyxis
+- https://github.com/flathub/app.devsuite.Schemes
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
 - https://github.com/flathub/com.neatdecisions.Detwinner
