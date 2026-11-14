@@ -65,6 +65,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/vet.rsc.OpenRSC.Launcher
 
 ### In some cases
+- https://github.com/flathub/app.devsuite.Ptyxis
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
 - https://github.com/flathub/com.neatdecisions.Detwinner
@@ -89,6 +90,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.gabmus.whatip
 - https://github.com/flathub/org.geogebra.GeoGebra
 - https://github.com/flathub/org.gnome.atomix
+- https://github.com/flathub/org.gnome.dspy
 - https://github.com/flathub/org.gnome.Four-in-a-row
 - https://github.com/flathub/org.gnome.gitlab.bazylevnik0.Convolution
 - https://github.com/flathub/org.gnome.gitlab.powimod.aion-task
