@@ -26,6 +26,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.github.robertsanseries.ciano
 - https://github.com/flathub/com.github.tenderowl.frog
 - https://github.com/flathub/com.holypangolin.Animatch
+- https://github.com/flathub/com.snes9x.Snes9x
 - https://github.com/flathub/com.transmissionbt.Transmission
 - https://github.com/flathub/com.ylsoftware.qmmp.Qmmp
 - https://github.com/flathub/com.zandronum.Zandronum
