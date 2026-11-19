@@ -98,6 +98,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.gnome.atomix
 - https://github.com/flathub/org.gnome.dspy
 - https://github.com/flathub/org.gnome.Four-in-a-row
+- https://github.com/flathub/org.gnome.Genius
 - https://github.com/flathub/org.gnome.gitlab.bazylevnik0.Convolution
 - https://github.com/flathub/org.gnome.gitlab.powimod.aion-task
 - https://github.com/flathub/org.gnome.gThumb
