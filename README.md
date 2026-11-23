@@ -2,6 +2,8 @@
 
 If you appreciate my work, [buy me a book :)](https://www.amazon.co.uk/hz/wishlist/ls/S58P9JEHP6UF)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabriunal&show_icons=true&theme=shadow_green)
+
 I might be a maintainer or one of the maintainers of the following repositories:
 
 ### Full-time:
