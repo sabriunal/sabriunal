@@ -81,6 +81,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/io.github.diegoivanme.flowtime
 - https://github.com/flathub/io.github.shundhammer.qdirstat
 - https://github.com/flathub/io.github.nokse22.ultimate-tic-tac-toe
+- https://github.com/flathub/io.sourceforge.pipewalker.PipeWalker
 - https://github.com/flathub/net.carrotindustries.usbkvm
 - https://github.com/flathub/net.oz9aec.Gpredict
 - https://github.com/flathub/net.sourceforge.GrandOrgue
