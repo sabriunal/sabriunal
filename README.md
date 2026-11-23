@@ -73,6 +73,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.gpuvis.Gpuvis
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
+- https://github.com/flathub/com.locomalito.abbayedesmorts
 - https://github.com/flathub/com.neatdecisions.Detwinner
 - https://github.com/flathub/com.notepadqq.Notepadqq
 - https://github.com/flathub/com.sigil_ebook.Sigil
