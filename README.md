@@ -52,6 +52,10 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.sourceforge.chromium-bsu
 - https://github.com/flathub/net.sourceforge.Klavaro
 - https://github.com/flathub/net.sourceforge.lgames.Barrage
+- https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
+- https://github.com/flathub/net.sourceforge.lgames.LGeneral
+- https://github.com/flathub/net.sourceforge.lgames.LPairs2
+- https://github.com/flathub/net.sourceforge.lgames.LTris
 - https://github.com/flathub/net.sourceforge.mars-game
 - https://github.com/flathub/net.sourceforge.Ri-li
 - https://github.com/flathub/net.sourceforge.TuxFootball
@@ -88,10 +92,6 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/net.carrotindustries.usbkvm
 - https://github.com/flathub/net.oz9aec.Gpredict
 - https://github.com/flathub/net.sourceforge.GrandOrgue
-- https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD
-- https://github.com/flathub/net.sourceforge.lgames.LGeneral
-- https://github.com/flathub/net.sourceforge.lgames.LPairs2
-- https://github.com/flathub/net.sourceforge.lgames.LTris
 - https://github.com/flathub/net.sourceforge.mcomix
 - https://github.com/flathub/net.supertuxkart.SuperTuxKart
 - https://github.com/flathub/org.gabmus.hydrapaper
