@@ -76,6 +76,7 @@ I might be a maintainer or one of the maintainers of the following repositories:
 ### In some cases
 - https://github.com/flathub/app.devsuite.Ptyxis
 - https://github.com/flathub/app.devsuite.Schemes
+- https://github.com/flathub/com.donhopkins.Micropolis
 - https://github.com/flathub/com.github.geigi.cozy
 - https://github.com/flathub/com.github.gpuvis.Gpuvis
 - https://github.com/flathub/com.github.muriloventuroso.pdftricks
@@ -83,21 +84,27 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/com.neatdecisions.Detwinner
 - https://github.com/flathub/com.notepadqq.Notepadqq
 - https://github.com/flathub/com.sigil_ebook.Sigil
+- https://github.com/flathub/dk.tangramgames.mrrescue
+- https://github.com/flathub/im.srain.Srain
 - https://github.com/flathub/io.github.Cookiiieee.WSelector
 - https://github.com/flathub/io.github.diegoivan.GaticTacToe
 - https://github.com/flathub/io.github.diegoivanme.flowtime
+- https://github.com/flathub/io.github.hurricangame.hurrican
 - https://github.com/flathub/io.github.shundhammer.qdirstat
 - https://github.com/flathub/io.github.nokse22.ultimate-tic-tac-toe
 - https://github.com/flathub/io.sourceforge.pipewalker.PipeWalker
+- https://github.com/flathub/io.sourceforge.trigger_rally.TriggerRally
 - https://github.com/flathub/net.carrotindustries.usbkvm
 - https://github.com/flathub/net.oz9aec.Gpredict
 - https://github.com/flathub/net.sourceforge.GrandOrgue
 - https://github.com/flathub/net.sourceforge.mcomix
+- https://github.com/flathub/net.sourceforge.SDL-Ball
 - https://github.com/flathub/net.supertuxkart.SuperTuxKart
 - https://github.com/flathub/org.gabmus.hydrapaper
 - https://github.com/flathub/org.gabmus.notorious
 - https://github.com/flathub/org.gabmus.swatch
 - https://github.com/flathub/org.gabmus.whatip
+- https://github.com/flathub/org.gahshomar.Gahshomar
 - https://github.com/flathub/org.geogebra.GeoGebra
 - https://github.com/flathub/org.gnome.atomix
 - https://github.com/flathub/org.gnome.dspy
@@ -112,7 +119,9 @@ I might be a maintainer or one of the maintainers of the following repositories:
 - https://github.com/flathub/org.gnome.Nibbles
 - https://github.com/flathub/org.gnome.Tali
 - https://github.com/flathub/org.gnome.Taquin
+- https://github.com/flathub/org.tuxfamily.XMoto
 - https://github.com/flathub/xyz.aguno.CubeTimer
+
 
 ### Other times:
 - https://github.com/orgs/flathub/repositories
